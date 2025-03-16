@@ -59,7 +59,7 @@ jobs:
           REACT_APP_MIDDLEWARE_URL: ${{ secrets.STAGING_MIDDLEWARE_URL }}
           REACT_APP_COMMIT_HASH: ${{ github.sha }}
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
         with:
           repository: 'CAHLR/OATutor-Staging'
           ssh-key: ${{ secrets.STAGING_SSH_PRIVATE_KEY }}
