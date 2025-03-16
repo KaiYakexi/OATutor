@@ -1,4 +1,4 @@
 [submodule "src/content-sources/oat"]
 	path = src/content-sources/oatutor
-	url = git@github.com/KaiYakexi/OATutor-ILE-Content
+	url = https://github.com/KaiYakexi/OATutor-ILE-Content
 
