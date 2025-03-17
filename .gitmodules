@@ -2,3 +2,6 @@
 	path = src/content-sources/oatutor
 	url = git@github.com:KaiYakexi/OATutor-ILE-Content.git
 
+[submodule "src/content-sources/oatutor"]
+	path = src/content-sources/oatutor
+	url = git@github.com:KaiYakexi/OATutor-ILE-Content.git
